@@ -1,0 +1,175 @@
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\background1.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\background2.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee1.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee2.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee3.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee4.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee5.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee6.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee7.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee8.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee9.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\Daisy.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\Daisy1.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\Daisy2.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\Daisy3.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\Game Over.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull1.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull2.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull3.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull4.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull5.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull6.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull7.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\fly.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\lifeFont.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\pollenFont.xnb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\NewThisWorks.exe
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\NewThisWorks.pdb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\NewThisWorks\NewThisWorks\NewThisWorks\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+S:\NewThisWorks\NewThisWorks\NewThisWorks\obj\x86\Debug\NewThisWorks.exe
+S:\NewThisWorks\NewThisWorks\NewThisWorks\obj\x86\Debug\NewThisWorks.pdb
+S:\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagullPoop.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\background1.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\background2.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee1.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee2.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee3.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee4.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee5.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee6.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee7.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee8.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee9.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\Daisy.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\Daisy1.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\Daisy2.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\Daisy3.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\Game Over.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull1.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull2.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull3.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull4.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull5.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull6.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull7.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagullPoop.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\fly.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\lifeFont.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\pollenFont.xnb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\NewThisWorks.exe
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\NewThisWorks.pdb
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\obj\x86\Debug\NewThisWorks.exe
+F:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\obj\x86\Debug\NewThisWorks.pdb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\background1.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\background2.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee1.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee2.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee3.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee4.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee5.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee6.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee7.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee8.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee9.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\Daisy.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\Daisy1.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\Daisy2.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\Daisy3.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\Game Over.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull1.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull2.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull3.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull4.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull5.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull6.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull7.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagullPoop.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\fly.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\lifeFont.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\pollenFont.xnb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\NewThisWorks.exe
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\NewThisWorks.pdb
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\obj\x86\Debug\NewThisWorks.exe
+L:\College\Game\NewThisWorks\NewThisWorks\NewThisWorks\obj\x86\Debug\NewThisWorks.pdb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\background1.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\background2.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee1.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee2.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee3.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee4.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee5.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee6.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee7.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee8.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee9.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\Daisy.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\Daisy1.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\Daisy2.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\Daisy3.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\Game Over.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull1.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull2.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull3.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull4.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull5.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull6.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull7.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagullPoop.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\fly.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\lifeFont.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\pollenFont.xnb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\NewThisWorks.exe
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\NewThisWorks.pdb
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\obj\x86\Debug\NewThisWorks.exe
+F:\College\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\obj\x86\Debug\NewThisWorks.pdb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\background1.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\background2.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee1.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee2.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee3.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee4.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee5.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee6.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee7.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee8.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\bee9.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\Daisy.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\Daisy1.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\Daisy2.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\Daisy3.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\Game Over.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull1.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull2.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull3.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull4.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull5.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull6.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagull7.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\seagullPoop.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\fly.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\lifeFont.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\Content\pollenFont.xnb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\NewThisWorks.exe
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\bin\x86\Debug\NewThisWorks.pdb
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\obj\x86\Debug\NewThisWorks.csprojResolveAssemblyReference.cache
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\obj\x86\Debug\NewThisWorks.exe
+C:\Users\Monette\Documents\College\Games Programming\Game\Assessment\NewThisWorks\NewThisWorks\NewThisWorks\obj\x86\Debug\NewThisWorks.pdb
