@@ -1,0 +1,8 @@
+N:\College\Game\ThisWorks\ThisWorks\ThisWorksContent\obj\x86\Debug\ThisWorksContent.contentprojResolveAssemblyReference.cache
+F:\College\Game\ThisWorks\ThisWorks\ThisWorksContent\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\College\Game\ThisWorks\ThisWorks\ThisWorksContent\obj\x86\Debug\ThisWorksContent.contentprojResolveAssemblyReference.cache
+S:\ThisWorks\ThisWorks\ThisWorksContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\College\Game\Assessment\ThisWorks\ThisWorks\ThisWorksContent\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\College\Game\Assessment\ThisWorks\ThisWorks\ThisWorksContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Upstairs\Documents\BeeGame\BeeGame\ThisWorks\ThisWorksContent\obj\x86\Debug\ThisWorksContent.contentprojAssemblyReference.cache
+C:\Users\Upstairs\Documents\BeeGame\BeeGame\ThisWorks\ThisWorksContent\obj\x86\Debug\ThisWorksContent.contentproj.CoreCompileInputs.cache
